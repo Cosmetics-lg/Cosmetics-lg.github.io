@@ -1,0 +1,74 @@
+<html>
+	<head>
+		<title>Cosmetics LG</title>
+			<link rel="shortcut icon" href="cosmetic.jpg">
+			<link rel="stylesheet" href="estilos.css">
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&display=swap" rel="stylesheet">
+	</head>
+	<body>
+	<center>
+		<div class="div1">
+				<img class="logo" src="Cosmetic2.png">
+		<h1 id="fuente-Please_write_me_a_song">
+			pasele pasele
+		</h1>
+		</div>
+	</center>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<hr>
+		<div class="div6">
+		<marquee behavior="alternate">
+		<br>
+		<br>
+			<img class="cole" src="audifonos3.jpg">
+			<img class="cole" src="esponjas.jpg">
+			<img class="cole" src="bolsa.jpg">
+			<img class="cole" src="blush.jpg">
+			<img class="cole" src="labiales3.jpg">
+			<img class="cole" src="rubor.jpg">
+			<img class="cole" src="broncer.jpg">
+			<img class="cole" src="sombras.jpg">
+			<img class="cole" src="sombrast.jpg">
+			<img class="cole" src="colores.jpg">
+			<img class="cole" src="labial.jpg">
+		</marquee>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<tr>
+		<center>
+		<div class="div3">
+		<table  class="sin">
+			<td  class="sin"><A href="principal.html"><img src=principal.png></A></td>
+			<td  class="sin"><A href="historia.html"><img src=historia.png></A></td>
+			<td  class="sin"><A href="productos.html"><img src=productos.png></A></td>
+			<td  class="sin"><A href="contacto.html"><img src=contacto.png></A></td>
+		</tr>
+		</table>
+		</div>
+		</center>
+	
+		<center>
+		<div class="div5">
+		<p id="fuente-google">
+			&copy;2022. Derechos reservados. <br>
+			Desarrollado por: Valeria Arredondo Luque<br>
+			Matricula: 01908242<br>
+			Grupo: 604 <br>
+			Plantel Nueva Tijuana
+		</p>
+		</div>
+		</center>
+	</body>
+</html>

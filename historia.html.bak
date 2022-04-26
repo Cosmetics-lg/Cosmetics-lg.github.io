@@ -1,0 +1,88 @@
+<html>
+	<head>
+		<title>Cosmetics LG-Historia</title>
+		<link rel="shortcut icon" href="cosmetic.jpg">
+		<link rel="stylesheet" href="estilos.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<Center>
+		<div class="div1">
+			<img class="logo" src="Cosmetic2.png">
+		</div>
+		</center>
+		<h1 id="fuente-Please_write_me_a_song">
+			Nuestra historia
+		</h1>
+			<hr>
+			<br>
+			<br>
+		<center>
+		<div class="div7">
+		<font class="shrek">
+			<ul class="paco">
+				<li>Nosotros
+			</ul>
+		</font>
+		
+		<font class="yo">
+			<br>
+			<br>
+		Cosmetics Lg nace en 2019 como un pequeño puesto de maquillaje.Lizbeth Garay, la creadora, <br> 
+		necesitaba un trabajo y se le ocurrió la idea de comenzar un emprendimiento donde venderia <br>
+		lo que mas le gustaba, el maquillaje. Comenzó con unas pocas ventas con algunas conocidas pero <br>
+		ahora poco a poco ha conseguido obtener un lugar para vender su mercancia y ahora tener mas clientas.
+		</font>
+		<font class="shrek">
+			<ul class="paco">
+				<li>Mision
+			</ul>
+		</font>
+			<br>
+			<br>
+		<font class="yo">
+		Ganar confianza, darle la mejor atención y los mejores productos a nuestros clientes. Queremos que<br>
+		esten lo mas satisfechos posible.
+		</font>
+		
+		<font class="shrek">
+			<ul class="paco">
+				<li>Vision
+			</ul>
+		</font>
+		<br>
+		<br>
+		<font class="yo">
+		Convertirnos en un negocio mas grande y dar los mejores productos a las personas tanto de Tijuana como<br>
+		de todo México.
+		</font>
+		</center>
+		</div>
+			<br>
+			<br>
+			<br>
+	<tr>
+		<center>
+		<div class="div3">
+		<table  class="sin">
+			<td  class="sin"><A href="principal.html"><img src=principal.png></A></td>
+			<td  class="sin"><A href="historia.html"><img src=historia.png></A></td>
+			<td  class="sin"><A href="productos.html"><img src=productos.png></A></td>
+			<td  class="sin"><A href="contacto.html"><img src=contacto.png></A></td>
+		</tr>
+		</table>
+		</div>
+		<div class="div5">
+		<p id="fuente-google">
+			&copy;2022. Derechos reservados. <br>
+			Desarrollado por: Valeria Arredondo Luque<br>
+			Matricula: 01908242<br>
+			Grupo: 604 <br>
+			Plantel Nueva Tijuana
+		</p>
+		</div>
+		</center>
+	</body>
+	</html>

@@ -1,0 +1,73 @@
+<html>
+	<head>
+		<title>
+		Cosmetics Lg
+		</title>
+		<link rel="shortcut icon" href="cosmetic.jpg">
+		<link rel="stylesheet" href="estilos.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&display=swap" rel="stylesheet">
+	</head>
+	<body>
+	<Center>
+		<div class="div1">
+			<img class="logo" src="Cosmetic2.png">
+		</div>
+	</center>
+	<br>
+		<h1 id="fuente-Please_write_me_a_song">
+			Sombras
+		</h1>
+		<hr>
+		<br>
+		<br>
+		<br>
+		<center>
+		<div class="div9">
+		<br>
+		<br>
+		<br>
+		<font class="pocoyo">
+		Se ofrece una gran variedad de sombras de diferentes marcas, colores y tamaños.
+		</font>
+		<br>
+		<br>
+		<br>
+		<div class="caja2">
+			<img class="img3" src="sombras8.jpg">
+		</div>
+		<div class="caja2">
+			<img class="img3" src="sombras7.jpg">
+		</div>
+		<div class="caja2">
+			<img class="img3" src="sombrast.jpg">
+		</div>
+		<div class="caja2">
+			<img class="img3" src="colores.jpg">
+		</center>
+	<br>
+	<br>
+	<tr>
+	<center>
+	<div class="div3">
+		<table  class="sin">
+			<td  class="sin"><A href="principal.html"><img src=principal.png></A></td>
+			<td  class="sin"><A href="historia.html"><img src=historia.png></A></td>
+			<td  class="sin"><A href="productos.html"><img src=productos.png></A></td>
+			<td  class="sin"><A href="contacto.html"><img src=contacto.png></A></td>
+		</tr>
+		</table>
+	</div>
+		<div class="div5">
+		<p id="fuente-google">
+			&copy;2022. Derechos reservados. <br>
+			Desarrollado por: Valeria Arredondo Luque<br>
+			Matricula: 01908242<br>
+			Grupo: 604 <br>
+			Plantel Nueva Tijuana
+		</p>
+		</div>
+		</center>
+	</body>
+</html>

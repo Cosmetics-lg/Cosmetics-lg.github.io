@@ -1,0 +1,94 @@
+<html>
+	<head>
+		<title>
+		Cosmetics Lg-Contacto
+		</title>
+		<link rel="shortcut icon" href="cosmetic.jpg">
+		<link rel="stylesheet" href="estilos.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&display=swap" rel="stylesheet">
+	</head>
+	<body>
+	<Center>
+		<div class="div1">
+			<img class="logo" src="Cosmetic2.png">
+		</div>
+		</center>
+		<h1 id="fuente-Please_write_me_a_song">
+			Contactanos
+		</h1>
+		<hr>
+		<center>
+		<div class="div4">
+			<form>
+				<table class="minion">
+				<tr class="minion">
+					<td>
+						<label> Nombre:</label>
+						<input type="text"size="50"
+						name="Nombre" id="nombre">
+						</input>
+					</td>
+				</tr>
+				<tr class="minion">
+					<td>
+						<label> Correo electronico:</label>
+						<input type="text"size="40"
+						name="Correo" id="Correo">
+						</input>
+					</td>
+				</tr>
+				<tr class="minion">
+					<td>
+						<label> Asunto:</label>
+						<input type="text"size="50"
+						name="Asunto" id="Asunto">
+						</input>
+					</td>
+				</tr>
+				<tr class="minion">
+					<td>
+						<label> Mensaje; </label>
+						<textarea rows="10" cols="30"
+						name="mensaje" id="mensaje">
+						</textarea>
+					</td>
+				</tr>
+					<tr class="minion">
+					<td>
+						<input type="submit"
+						value="Enviar">
+						<input type="Reset">
+					</td>
+				</tr>	
+				</table>
+			</form>
+		</div>
+		<div class="div10">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d315.78879864188065!2d-116.94286238617829!3d32.43482365666168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d939815babeca1%3A0x5af7bff3f273803c!2sPriv.%20Biznaga%2015%2C%20Villa%20Del%20Alamo%2C%2022170%20B.C.!5e1!3m2!1ses!2smx!4v1649345673895!5m2!1ses!2smx" width="100%" height="80%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		</div>
+		</center>
+		<br>
+		<br>
+		<tr>
+		<center>
+		<div class="navegacion">
+		
+			<div  class="navegacion-item"><A href="principal.html"><img src=principal.png></A><p class="navegacion-titulo">Principal</p></div>
+			<div  class="navegacion-item"><A href="historia.html"><img src=historia.png></A><p class="navegacion-titulo">Histoia</p></div>
+			<div  class="navegacion-item"><A href="productos.html"><img src=productos.png><p class="navegacion-titulo">Productos</p></div>
+			<div  class="navegacion-item"><A href="contacto.html"><img src=contacto.png></A><p class="navegacion-titulo">Contacto</p></div>
+		</div>
+		<div class="div5">
+		<p id="fuente-google">
+			&copy;2022. Derechos reservados. <br>
+			Desarrollado por: Valeria Arredondo Luque<br>
+			Matricula: 01908242<br>
+			Grupo: 604 <br>
+			Plantel Nueva Tijuana
+		</p>
+		</div>
+		</center>
+	</body>
+</html>
